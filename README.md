@@ -1,4 +1,4 @@
-#BEVY_SNAKE
+# BEVY_SNAKE
 
 Clone of snake game, with Bevy 0.10
 
